@@ -1,5 +1,5 @@
-using namespace std; 
+#include <iostream>
 int main() {
-    cout << "Good morning sunshine, the earth says hello!" << endl;
+   std:: cout << "Good morning sunshine, the earth says hello!" << std::endl;
     return 0;
 }
