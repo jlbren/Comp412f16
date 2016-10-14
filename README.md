@@ -10,6 +10,6 @@ Run Instructions (Unix):
 ##AvgRandoms
 Round 2! avgrandoms is a python3 script for randomly generating a file of ints and then calculating its average! NOTE THIS REQUIRES PYTHON 3.X
 1. (Do Steps 1 & 2 from previous if needed)
-2. `python avgrandoms.p` 
+2. `python avgrandoms.py` 
 3. Sit back and enjoy! 
 Done! 
